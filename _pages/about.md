@@ -15,5 +15,5 @@ I also sing with [the DQ](https://www.thedq.org/) and rock climb.
 
 This is a blog for me to post explanations of math I am learning. These posts should do (at least one of) the following:
 
-1. Provide examples (zoom in to see inner workings)
-1. Provide the category theoretic interpretation (zoom out to get context)
+1. Provide examples
+1. Provide the category theoretic interpretation 
