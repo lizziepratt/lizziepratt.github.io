@@ -1,19 +1,15 @@
 ---
-title: "About Baz Pratt"
+title: "About Lizzie Pratt"
 permalink: /about/
 path: /about/
-date: 2021-12-5
-last_modified_at: 2021-12-5
+date: 2023-2-25
+last_modified_at: 2023-2-25
 excerpt: ""
-image: #../images/about-michael-collage-2016.jpg
+image: 
 ---
 
 
-I'm a math major at Amherst College, soon to be a PhD student at (insert your university here if you are in admissions). I am especially interested in algebraic geometry, discrete math, theoretical CS, and everything in the overlaps.
+I am a first year PhD student at UC Berkeley, advised by Bernd Sturmfels. I am visiting the IAS in Spring 2023. My mathematical interests include algebraic geometry, discrete math, and applications to physics and theoretical computer science. In my free time, I rock climb, drink coffee, read comics, and sing.
 
-I also sing with [the DQ](https://www.thedq.org/) and rock climb.
+Email is the best way to contact me: epratt [symbol] berkeley [another symbol] edu
 
-This is a blog for me to post explanations of math I am learning. These posts should do (at least one of) the following:
-
-1. Provide examples
-1. Provide the category theoretic interpretation 
