@@ -5,6 +5,7 @@ path: /research/
 date: 2023-2-25
 last_modified_at: 2023-2-25
 excerpt: "My papers and talks"
+# classes: wide
 image:
 ---
 ## Papers: 

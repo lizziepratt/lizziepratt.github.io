@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-permalink: /about/
-path: /about/
+permalink: /
+path: /
 date: 2023-2-25
 last_modified_at: 2023-2-25
 excerpt: ""
