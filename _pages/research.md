@@ -8,7 +8,7 @@ excerpt: "My papers and talks"
 # classes: wide
 image:
 ---
-I am broadly interested in combinatorial algebraic geometry. Recently, I have been thinking aboout D-modules, and Grobner basis techniques in the Weyl algebra.
+I am broadly interested in combinatorial algebraic geometry. Recently, I have been thinking about D-modules, and Grobner basis techniques in the Weyl algebra.
 
 ## Papers: 
 
