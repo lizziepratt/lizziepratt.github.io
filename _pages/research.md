@@ -8,9 +8,11 @@ excerpt: "My papers and talks"
 # classes: wide
 image:
 ---
+I am broadly interested in combinatorial algebraic geometry. Recently, I have been thinking aboout D-modules, and Grobner basis techniques in the Weyl algebra.
+
 ## Papers: 
 
-* [D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals](https://arxiv.org/abs/2303.11105) (2023)
+* [D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals](https://arxiv.org/abs/2303.11105) (2023, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia)
 
 We use D-module methods to solve linear differential equations appearing in the context of Feynman integrals. In particular, we implement an algorithm due to Saito, Sturmfels, and Takayama to compute canonical series solutions of regular holonomic D-ideals, and compare them to asymptotic series derived from the respective Fuchsian systems. 
 
