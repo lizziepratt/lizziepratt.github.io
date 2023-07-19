@@ -8,16 +8,19 @@ excerpt: ""
 image: 
 ---
 
-I am currently visiting the Institute for Advanced Study in Princeton, NJ. Here are some of my past activities.
+I am in Berkeley as of mid-August. Here are some of my past activities.
 
 ### Summer 2023
 * May 15-July 10: Visitor at MPI
+* June 26: Talk on Grasstopes at MPI
+* July 10-14: SIAM
 
 ### Spring 2023
 * Jan 15-28: Visitor at MPI
 * Jan 23: Talk on D-modules and applications to Feynman integrals at Technische Universität München (TUM)
 * February-May: Visiting the Institute for Advanced Study
-* February 7: Talk on D-modules at the IAS Amplitudes seminar
+* Feb 7: Talk on D-modules at the IAS Amplitudes seminar
+* April 20: Talk on D-modules at the IAS What Is seminar
 
 ### Fall 2022
 *  August-December: Teaching Math 91 (Linear Algebra) at UC Berkeley
