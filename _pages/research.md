@@ -17,7 +17,7 @@ I am broadly interested in combinatorial algebraic geometry.
 Grasstopes are a generalization of amplituhedra. Building on work of Karp and Williams on the m=1 amplituhedron, we show that m=1 Grasstopes consist of regions of a hyperplane arrangement characterized by a sign condition. 
 
 
-* [D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals](https://arxiv.org/abs/2303.11105) (2023, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia)
+* [D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals](https://arxiv.org/abs/2303.11105) (preprint, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia)
 
 We use D-module methods to construct series solutions to linear differential equations appearing in the context of Feynman integrals. 
 <!---In particular, we implement an algorithm due to Saito, Sturmfels, and Takayama to compute canonical series solutions of regular holonomic D-ideals, and compare them to asymptotic series derived from the respective Fuchsian systems.--->
