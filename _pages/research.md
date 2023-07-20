@@ -12,7 +12,7 @@ I am broadly interested in combinatorial algebraic geometry.
 
 ## Papers: 
 
-* [Combinatorics of m=1 Grasstopes](https://arxiv.org) (preprint, with Yelena Mandelshtam and Dmitrii Pavlov)
+* [Combinatorics of m=1 Grasstopes](https://arxiv.org/abs/2307.09603) (preprint, with Yelena Mandelshtam and Dmitrii Pavlov)
 
 Grasstopes are a generalization of amplituhedra. Building on work of Karp and Williams on the m=1 amplituhedron, we show that m=1 Grasstopes consist of regions of a hyperplane arrangement characterized by a sign condition. 
 
