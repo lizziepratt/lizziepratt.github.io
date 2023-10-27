@@ -8,7 +8,10 @@ excerpt: ""
 image: 
 ---
 
-I am in Berkeley as of mid-August. Here are some of my past activities.
+I am in Berkeley for Fall and Spring 2023. Here are some of my current and past activities.
+
+### Fall 2023
+* Jan 3: JMM 2024
 
 ### Summer 2023
 * May 15-July 10: Visitor at MPI
