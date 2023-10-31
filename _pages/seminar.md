@@ -25,3 +25,4 @@ Reference: 3264 and All That (Eisenbud and Harris)
 | 11/6  | Jesse Selover   | Section 3.1 |
 | 11/13  | Jesse Selover   | Section 3.2 |
 
+We also have [seminar notes](https://github.com/eruditeandroid/3264notes), thanks to John Nolan.
