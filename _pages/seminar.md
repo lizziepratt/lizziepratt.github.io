@@ -3,7 +3,7 @@ title: "Seminar"
 permalink: /seminar/
 path: /seminar/
 date: 2023-10-27
-last_modified_at: 2023-10-27
+last_modified_at: 2023-12-25
 excerpt: ""
 image: 
 ---
@@ -22,7 +22,7 @@ Reference: 3264 and All That (Eisenbud and Harris)
 | 10/16  | Joe Hlavinka   | Section 2.1 |
 | 10/23  | Joe Hlavinka   | Section 2.2 |
 | 10/30  | Joe Hlavinka   | Section 2.2 and exercises|
-| 11/6  | Jesse Selover   | Section 3.1 |
-| 11/13  | Jesse Selover   | Section 3.2 |
+| 11/6  | Jesse Selover   | Section 2.2 and exercises |
+| 11/13  | Jesse Selover   | More exercises |
 
 We also have [seminar notes](https://github.com/eruditeandroid/3264notes), thanks to John Nolan.
