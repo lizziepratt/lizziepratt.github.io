@@ -3,10 +3,20 @@ title: "Seminar"
 permalink: /seminar/
 path: /seminar/
 date: 2023-10-27
-last_modified_at: 2023-12-25
+last_modified_at: 2024-1-24
 excerpt: ""
-image: 
+image:
 ---
+## Intersection Theory and Flag Varieties (Spring 2024)
+Spacetime: Wednesdays 3:10-4 in Evans 736 \
+Reference: 3264 and All That (Eisenbud and Harris)
+
+
+| Date    | Speaker | Topic|
+| -------- | ------- |------- |
+|  1/31 | John Nolan   | Sections 3.1-3.3 |
+|  2/7 | Xianglong Ni  | Sections 4.1-4.2 |
+
 
 ## Intersection Theory (Fall 2023)
 Spacetime: Mondays 12:10-1 in Evans 732 \
