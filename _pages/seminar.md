@@ -14,8 +14,9 @@ Reference: 3264 and All That (Eisenbud and Harris)
 
 | Date    | Speaker | Topic|
 | -------- | ------- |------- |
-|  1/31 | John Nolan   | Sections 3.1-3.3 |
-|  2/7 | Xianglong Ni  | Sections 4.1-4.2 |
+|  1/31 | John Nolan   | Grassmannian as a functor |
+|  2/7 | John Nolan   | Bundles on Grassmannians |
+|  2/14 | Xianglong Ni  | Chapter 4: Schubert calculus |
 
 
 ## Intersection Theory (Fall 2023)
