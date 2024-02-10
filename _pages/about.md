@@ -14,6 +14,8 @@ Contact: epratt [symbol] berkeley [symbol] edu
 
 Upcoming events:
 * February 12-16: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)
+<!---* TBD in April 15-May 24: [Mathematics of Scattering Amplitudes](https://cmsa.fas.harvard.edu/event/scattering-amplitudes/)--->
 * May 4-5: [AMS Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html)
+* May 29-31: [Amplituhedra and Positive Geometry](https://cmsa.fas.harvard.edu/event/amplituhedra2024/)
 
 ![alt text](/assets/images/hike.jpg "Title")
