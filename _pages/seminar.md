@@ -16,8 +16,10 @@ Reference: 3264 and All That (Eisenbud and Harris)
 | -------- | ------- |------- |
 |  1/31 | John Nolan   | Grassmannian as a functor |
 |  2/7 | John Nolan   | Bundles on Grassmannians |
-|  2/14 | Xianglong Ni  | Chapter 4: Schubert calculus |
-
+|  2/14 | Xianglong Ni  | Schubert varieties from representation theory |
+|  2/21 | Xianglong Ni  | Schubert varieties |
+|  2/28 | Lizzie Pratt  | Pieri's rule and calculations |
+|  3/6 | Connor Halleck-Dubé  | Chern classes |
 
 ## Intersection Theory (Fall 2023)
 Spacetime: Mondays 12:10-1 in Evans 732 \
