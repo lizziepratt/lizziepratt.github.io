@@ -15,6 +15,12 @@ I am broadly interested in combinatorial algebraic geometry.
 <!---![](/assets/images/grasstopes.png)--->
 
 <!---<img src="/assets/images/grasstopes.png" width="150">  -->
+<details>
+<summary><a href = "https://arxiv.org/abs/2403.04610">Wondertopes</a> (preprint, with Sarah Baruner, Chris Eur, and Raluca Vlad)</summary>
+<hr>
+We provide a new type of positive geometry called a wondertope (wonderful polytope). It is constructed by pulling back an open region of a hyperplane arrangement to the wonderful compatification of the arrangement, then taking the Euclidean closure.
+<hr>
+</details>
 
 <details>
 <summary><a href = "https://arxiv.org/abs/2401.10795">The Chow-Lam Form</a> (preprint, with Bernd Sturmfels)</summary>
@@ -73,6 +79,9 @@ We discover new examples of hypergeometric series which are quantum Jacobi forms
 <a href="https://arxiv.org/abs/2307.09603"><img src="/assets/images/grasstopes.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2303.11105"><img src="/assets/images/feynman.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2204.02971"><img src="/assets/images/elliptic.png" width="150"></a>
+<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/m05.png" width="150"></a>
+<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="150"></a>
+<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/schlegel.png" width="150"></a>
 
 <!--## Talks: 
 * D-modules and applications to Feynman Integrals, IAS Amplitudes seminar

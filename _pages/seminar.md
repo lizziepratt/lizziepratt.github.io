@@ -3,10 +3,12 @@ title: "Seminar"
 permalink: /seminar/
 path: /seminar/
 date: 2023-10-27
-last_modified_at: 2024-1-24
+last_modified_at: 2024-2-21
 excerpt: ""
 image:
 ---
+## Equivariant Cohomology (Fall 2024)
+Upcoming! Stay tuned.
 ## Intersection Theory and Flag Varieties (Spring 2024)
 Spacetime: Wednesdays 3:10-4 in Evans 736 \
 Reference: 3264 and All That (Eisenbud and Harris)
@@ -20,6 +22,8 @@ Reference: 3264 and All That (Eisenbud and Harris)
 |  2/21 | Xianglong Ni  | Schubert varieties |
 |  2/28 | Lizzie Pratt  | Pieri's rule and calculations |
 |  3/6 | Connor Halleck-Dubé  | Chern classes |
+|  3/13 | Connor Halleck-Dubé  | Chow rings of flag varieties |
+|  3/13 | Lizzie Pratt | 27 lines on a cubic surface via Chern classes |
 
 ## Intersection Theory (Fall 2023)
 Spacetime: Mondays 12:10-1 in Evans 732 \

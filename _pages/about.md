@@ -13,9 +13,11 @@ I am a second year PhD student at UC Berkeley, advised by Bernd Sturmfels. Befor
 Contact: epratt [symbol] berkeley [symbol] edu
 
 Upcoming events:
-* February 12-16: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)
-<!---* TBD in April 15-May 24: [Mathematics of Scattering Amplitudes](https://cmsa.fas.harvard.edu/event/scattering-amplitudes/)--->
-* May 4-5: [AMS Sectional Meeting](http://www.ams.org/meetings/sectional/2299_program.html)
-* May 29-31: [Amplituhedra and Positive Geometry](https://cmsa.fas.harvard.edu/event/amplituhedra2024/)
+* May 4-5: [AMS Sectional Meeting (San Fransisco)](http://www.ams.org/meetings/sectional/2299_program.html)
+* May 20-May 24: [Mathematics of Scattering Amplitudes (Boston)](https://cmsa.fas.harvard.edu/event/scattering-amplitudes/)
+* May 29-31: [Amplituhedra and Positive Geometry (Boston)](https://cmsa.fas.harvard.edu/event/amplituhedra2024/)
+* June 10-21: [Amplitudes 2024 (Princeton)](https://www.ias.edu/amplitudes2024)
+* July 15-19: [Summer School in Algebraic Combinatorics (Leipzig)](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics)
+* July 29- August 2: [MEGA (Leipzig)](https://www.mis.mpg.de/events/series/mega-2024)
 
 ![alt text](/assets/images/hike.jpg "Title")
