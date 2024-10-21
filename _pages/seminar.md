@@ -7,7 +7,7 @@ last_modified_at: 2024-2-21
 excerpt: ""
 image:
 ---
-## Equivariant Cohomology (Fall 2024)
+## Equivariant Cohomology (Spring 2025)
 Upcoming! Stay tuned.
 ## Intersection Theory and Flag Varieties (Spring 2024)
 Spacetime: Wednesdays 3:10-4 in Evans 736 \

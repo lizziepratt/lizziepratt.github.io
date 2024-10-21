@@ -45,7 +45,7 @@ Grasstopes are a generalization of amplituhedra. Building on work of Karp and Wi
 <details>
 <summary> 
 <a href = "https://arxiv.org/abs/2303.11105">
-D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals </a>(preprint, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia) </summary>
+D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals </a>(2024, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia) </summary>
 
 <hr>
 We use D-module methods to construct series solutions to linear differential equations appearing in the context of Feynman integrals. 
@@ -59,7 +59,7 @@ We use D-module methods to construct series solutions to linear differential equ
 <details>
 <summary>
 <a href = "https://arxiv.org/abs/2204.02971">
-On the Geometry of Elliptic Pairs </a>(2023) </summary>
+On the Geometry of Elliptic Pairs </a>(Journal of Pure and Applied Algebra, 2023) </summary>
 
 <hr>
 In this paper we classify toric elliptic pairs of Picard number two. These elliptic pairs are used to construct examples of surfaces whose pseudo-effective cone is non-polyhedral for a set of primes of positive density, and, assuming the generalized Riemann hypothesis, polyhedral for a set of primes of positive density.  
