@@ -2,8 +2,8 @@
 title: "Hello!"
 permalink: /
 path: /
-date: 2023-2-25
-last_modified_at: 2024-2-20
+date: 2024-10-22
+last_modified_at: 2024-10-22
 # excerpt: ""
 image:
 ---
@@ -13,7 +13,7 @@ I am a third year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before
 Contact: epratt [symbol] berkeley [symbol] edu
 
 Upcoming and recent travel:
-* October 9: Talk at SFSU
+* October 9: Talk at SFSU on Klyachko's formula
 * November-December: [IAS (Princeton)](https://www.ias.edu/math/events/sp/24-25)
 
-![alt text](/assets/images/hike.jpg "Title")
+![alt text](/assets/images/oslo3.jpg "Title")
