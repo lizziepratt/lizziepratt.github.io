@@ -16,4 +16,4 @@ Upcoming and recent travel:
 * October 9: Talk at SFSU on Klyachko's formula
 * November-December: [IAS (Princeton)](https://www.ias.edu/math/events/sp/24-25)
 
-![alt text](/assets/images/oslo3.jpg "Title")
+![alt text](/assets/images/oslo2.jpg "Title")
