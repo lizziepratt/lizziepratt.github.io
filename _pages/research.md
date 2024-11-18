@@ -16,7 +16,7 @@ I am broadly interested in combinatorial algebraic geometry.
 
 <!---<img src="/assets/images/grasstopes.png" width="150">  -->
 <details>
-<summary><a href = "https://arxiv.org/abs/2403.04610">Wondertopes</a> (preprint, with Sarah Baruner, Chris Eur, and Raluca Vlad)</summary>
+<summary><a href = "https://arxiv.org/abs/2403.04610">Wondertopes</a> (preprint, with Sarah Brauner, Chris Eur, and Raluca Vlad)</summary>
 <hr>
 We provide a new type of positive geometry called a wondertope (wonderful polytope). It is constructed by pulling back an open region of a hyperplane arrangement to the wonderful compatification of the arrangement, then taking the Euclidean closure.
 <hr>
