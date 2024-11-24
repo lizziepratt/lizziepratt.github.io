@@ -43,7 +43,7 @@ Grasstopes are a generalization of amplituhedra. Building on work of Karp and Wi
 
 <details>
 <summary> 
-D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals (<a href = https://link.springer.com/article/10.1007/s11005-024-01835-7>Letters in Mathematical Physics</a> 2024, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia) </summary>
+D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals (<a href = "https://link.springer.com/article/10.1007/s11005-024-01835-7">Letters in Mathematical Physics</a> 2024, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia) </summary>
 
 <hr>
 We use D-module methods to construct series solutions to linear differential equations appearing in the context of Feynman integrals. 
