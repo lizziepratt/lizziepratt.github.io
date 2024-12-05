@@ -12,6 +12,13 @@ I am broadly interested in combinatorial algebraic geometry.
 
 ## Papers: 
 
+<details>
+<summary>Chow-Lam Recovery (<a href = "https://arxiv.org/abs/2412.02691">preprint</a>, with Kristian Ranestad)</summary>
+<hr>
+We explore the extend to which a subvariety of the Grassmannian can be uniquely recovered from its Chow-Lam form. Unlike the classical case of Chow forms for projective varieties, this is not always possible, and we provide several interesting families of counter-examples.
+<hr>.
+</details>
+
 <!---![](/assets/images/grasstopes.png)--->
 
 <!---<img src="/assets/images/grasstopes.png" width="150">  -->
