@@ -86,7 +86,7 @@ We discover new examples of hypergeometric series which are quantum Jacobi forms
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/m05.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/schlegel.png" width="150"></a>
-<a href = "https://arxiv.org/abs/2412.02691"><img src="/assets/images/quadric.png" width="150"></a>
+<a href = "https://arxiv.org/abs/2412.02691"><img src="/assets/images/quadric.png" width="280"></a>
 
 <!--## Talks: 
 * D-modules and applications to Feynman Integrals, IAS Amplitudes seminar
