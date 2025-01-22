@@ -3,11 +3,11 @@ title: "Seminar"
 permalink: /seminar/
 path: /seminar/
 date: 2023-10-27
-last_modified_at: 2024-2-21
+last_modified_at: 2025-1-22
 excerpt: ""
 image:
 ---
-## Equivariant Cohomology (Spring 2025)
+## Tropical Geometry (Spring 2025)
 Upcoming! Stay tuned.
 ## Intersection Theory and Flag Varieties (Spring 2024)
 Spacetime: Wednesdays 3:10-4 in Evans 736 \

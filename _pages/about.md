@@ -3,7 +3,7 @@ title: "Hello!"
 permalink: /
 path: /
 date: 2024-10-22
-last_modified_at: 2024-11-24
+last_modified_at: 2025-1-22
 # excerpt: ""
 image:
 ---
@@ -15,9 +15,6 @@ Contact: epratt [symbol] berkeley [symbol] edu
 Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en)
 
 Upcoming and recent travel:
-* November-December: [IAS (Princeton)](https://www.ias.edu/math/events/sp/24-25)
-* January 8-10: [Positivity in positive geometry](https://indico.mpp.mpg.de/event/10619/) (Munich)
-* Jan 14-20: Leipzig
 * Jan 21: Back in Berkeley! 
 * July 7-11: [SIAM AG 2025](https://www.siam.org/conferences-events/siam-conferences/ag25/) (Madison, WI)
 
