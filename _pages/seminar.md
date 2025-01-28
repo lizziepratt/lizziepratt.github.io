@@ -8,7 +8,16 @@ excerpt: ""
 image:
 ---
 ## Tropical Geometry (Spring 2025)
-Upcoming! Stay tuned.
+Co-organized with Smita Rajan. \
+Spacetime: Tuesdays 1:10-2 in Evans 762 \
+Reference: Tropical Geometry (Maclagan and Sturmfels)
+
+| Date    | Speaker | Topic|
+| -------- | ------- |------- |
+|  1/28 | Lizzie Pratt  | Sections 1.1, 1.3 |
+|  2/4 | Smita Rajan  | Sections 2.1-2.2 |
+
+
 ## Intersection Theory and Flag Varieties (Spring 2024)
 Spacetime: Wednesdays 3:10-4 in Evans 736 \
 Reference: 3264 and All That (Eisenbud and Harris)
