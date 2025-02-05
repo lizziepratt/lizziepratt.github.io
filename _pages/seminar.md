@@ -16,6 +16,8 @@ Reference: Tropical Geometry (Maclagan and Sturmfels)
 | -------- | ------- |------- |
 |  1/28 | Lizzie Pratt  | Sections 1.1, 1.3 |
 |  2/4 | Smita Rajan  | Sections 2.1-2.2 |
+|  2/11 | Hannah Friedman | Sections 2.3-2.4 |
+|  2/18 | TBD | Sections 2.5-2.6 |
 
 
 ## Intersection Theory and Flag Varieties (Spring 2024)
