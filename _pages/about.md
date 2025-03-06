@@ -16,6 +16,9 @@ Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl
 
 Upcoming and recent travel:
 * Jan 21: Back in Berkeley! 
+* April 22: Talk at [CAAG](https://eisenbud.github.io/deSeminar/Spring2025.html) (Berkeley, CA)
+* May 18-23: [Women and Math](https://www.ias.edu/math/wam/program-years/2025-program-women-and-mathematics) (Princeton, NJ)
+* May 24-July 7: Visiting MPI (Leipzig, Germany) 
 * July 7-11: [SIAM AG 2025](https://www.siam.org/conferences-events/siam-conferences/ag25/) (Madison, WI)
 
 ![alt text](/assets/images/oslo2.jpg "Title")
