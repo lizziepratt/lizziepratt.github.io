@@ -20,7 +20,10 @@ Reference: Tropical Geometry (Maclagan and Sturmfels)
 |  2/18 | Lizzie Pratt | Sections 2.5-2.6 |
 |  2/25 | Xiangru Zeng| Sections 3.1-3.2 |
 |  3/4  | Svala Sverrisdottir| Sections 3.3-3.6 |
-|  3/11 | Brian Yang | Sections 4.1-4.2 |
+|  3/11 | Smita Rajan | Section 4.1 |
+|  3/18 | Xiangru Zeng | Section 4.2 |
+|  3/25 | Spring break! No seminar. | |
+|  4/1 | TBD | TBD |
 
 
 ## Intersection Theory and Flag Varieties (Spring 2024)
