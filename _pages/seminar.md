@@ -23,7 +23,8 @@ Reference: Tropical Geometry (Maclagan and Sturmfels)
 |  3/11 | Smita Rajan | Section 4.1 |
 |  3/18 | Xiangru Zeng | Section 4.2 |
 |  3/25 | Spring break! No seminar. | |
-|  4/1 | TBD | TBD |
+|  4/1 | Smita Rajan | Section 4.3 |
+|  4/8 | Smita Rajan | Section 4.4 |
 
 
 ## Intersection Theory and Flag Varieties (Spring 2024)
