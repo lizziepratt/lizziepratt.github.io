@@ -8,7 +8,7 @@ last_modified_at: 2025-1-22
 image:
 ---
 
-I am a third year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before that I was at Amherst College, where I completed a senior thesis on elliptic pairs under the guidance of Jenia Tevelev. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. In my free time, I rock climb, run, drink coffee, and read comics.
+I am a third year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before that I was at Amherst College, where I completed a senior thesis on elliptic pairs under the guidance of Jenia Tevelev. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. In my free time, I rock climb, run, drink coffee, and read comics. I am supported by NSF GRFP 2023358166.
 
 Contact: epratt [symbol] berkeley [symbol] edu
 
