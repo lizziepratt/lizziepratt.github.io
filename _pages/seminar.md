@@ -25,8 +25,10 @@ Reference: Tropical Geometry (Maclagan and Sturmfels)
 |  3/25 | Spring break! No seminar. | |
 |  4/1 | Smita Rajan | Section 4.3 |
 |  4/8 | Smita Rajan | Section 4.4 |
-|  4/15 | Lizzie Pratt | Chapter 6 |
+|  4/15 | Lizzie Pratt | Sections 6.1-6.3 |
 | 4/22 | Smita Rajan | Sections 4.5-4.6 |
+| 4/29 | a mystery | to be determined |
+| 5/6 | Brian Morris | Section 6.4 |
 
 
 ## Intersection Theory and Flag Varieties (Spring 2024)
