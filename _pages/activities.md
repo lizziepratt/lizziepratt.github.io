@@ -10,6 +10,10 @@ image:
 
 I am in Berkeley for Spring 2024. Here are some of my current and past activities.
 
+### Spring 2025
+* April 22: Talk at [CAAG](https://eisenbud.github.io/deSeminar/Spring2025.html) (Berkeley, CA)
+* May 18-23: [Women and Math](https://www.ias.edu/math/wam/program-years/2025-program-women-and-mathematics) (Princeton, NJ)
+
 ### Fall 2023
 * November 27: Talk on Grasstopes in Mini-workshop: Model Theory meets Nonlinear Algebra
 * Jan 3: JMM 2024

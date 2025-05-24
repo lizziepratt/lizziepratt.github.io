@@ -1,0 +1,21 @@
+1. To update website: make local changes (visual studio) then run "bundle exec jekyll serve"
+
+2. For git commit:
+- git status
+- git add
+-git commit -m "your message"
+-git push
+
+Then check the local copy using 1.
+
+3. To add a new page: add it in pages and then change navigation.yml
+
+4. To add a custom CSS file my_css: add the code in assets/css. There is a variable called custom_css which I added in head/custom.html. To use in a page, add the following to your page.
+custom_css: {{my_css.css}}
+
+5. To open preview:
+	- Ctrl-Shift-P to open command palette
+	- "Markdown: Open Preview to the Side"
+
+
+
