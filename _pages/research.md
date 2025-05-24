@@ -8,12 +8,19 @@ excerpt: "My papers and talks"
 # classes: wide
 image:
 ---
-I am broadly interested in combinatorial algebraic geometry.
+I am broadly interested in combinatorial algebraic geometry. Click on the triangle by each paper for a summary.
 
 ## Papers: 
 
 <details>
-<summary>Chow-Lam Recovery (<a href = "https://arxiv.org/abs/2412.02691">preprint</a>, with Kristian Ranestad)</summary>
+<summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204"></a>)</summary>
+<hr>
+The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
+<hr>.
+</details>
+
+<details>
+<summary>Chow-Lam Recovery (<a href = "https://lematematiche.dmi.unict.it/index.php/lematematiche">Le Matimatiche 2025</a>, with Kristian Ranestad)</summary>
 <hr>
 We explore the extend to which a subvariety of the Grassmannian can be uniquely recovered from its Chow-Lam form. Unlike the classical case of Chow forms for projective varieties, this is not always possible, and we provide several interesting families of counter-examples.
 <hr>.
