@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 path: /research/
 date: 2023-2-25
-last_modified_at: 2024-11-24
+last_modified_at: 2025-5-30
 excerpt: "My papers and talks"
 # classes: wide
 image:
@@ -13,7 +13,7 @@ I am broadly interested in combinatorial algebraic geometry. Click on the triang
 ## Papers: 
 
 <details>
-<summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204"></a>)</summary>
+<summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204">preprint</a>)</summary>
 <hr>
 The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
 <hr>.
