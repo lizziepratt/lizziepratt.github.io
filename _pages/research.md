@@ -20,7 +20,7 @@ The Segre determinant is a polynomial which encodes the condition for points to 
 </details>
 
 <details>
-<summary>Chow-Lam Recovery (<a href = "https://lematematiche.dmi.unict.it/index.php/lematematiche">Le Matematiche 2025</a>, with Kristian Ranestad)</summary>
+<summary>Chow-Lam Recovery (<a href = "https://lematematiche.dmi.unict.it/index.php/lematematiche">Le Matematiche</a> 2025, with Kristian Ranestad)</summary>
 <hr>
 We explore the extend to which a subvariety of the Grassmannian can be uniquely recovered from its Chow-Lam form. Unlike the classical case of Chow forms for projective varieties, this is not always possible, and we provide several interesting families of counter-examples.
 <hr>.
