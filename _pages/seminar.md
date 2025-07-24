@@ -7,6 +7,11 @@ last_modified_at: 2025-1-22
 excerpt: ""
 image:
 ---
+<!--## Equivariant Cohomology (Fall 2025)
+Co-organized with Cameron Chang. 
+Spacetime: Thursdays 1-2:30
+Reference: Equivariant Cohomology (Fulton and Anderson)-->
+
 ## Tropical Geometry (Spring 2025)
 Co-organized with Smita Rajan. \
 Spacetime: Tuesdays 1:10-2 in Evans 762 \

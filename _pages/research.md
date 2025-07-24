@@ -13,6 +13,13 @@ I am broadly interested in combinatorial algebraic geometry. Click on the triang
 ## Papers: 
 
 <details>
+<summary>Exterior Cyclic Polytopes and Convexity of Amplituhedra (<a href ="https://arxiv.org/abs/2507.17620">preprint</a>)</summary>
+<hr>
+We show that the k=m=2 amplituhedron is the intersection of Gr(2,4) with a polytope, which we call the exterior cyclic polytope. Furthermore, we described the dual of this polytope in terms of the twist map of Marsh and Scott, and use this to define a notion of dual amplituhedron.
+<hr>.
+</details>
+
+<details>
 <summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204">preprint</a>)</summary>
 <hr>
 The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
@@ -20,9 +27,16 @@ The Segre determinant is a polynomial which encodes the condition for points to 
 </details>
 
 <details>
+<summary>FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (<a href ="https://arxiv.org/abs/2411.04872">preprint</a>)</summary>
+<hr>
+I contributed some problems to this problem bank, which serves as a benchmark for evaluating AI performance. The paper explains the methodology in more detail and evaluates several leading models on this problem set.
+<hr>.
+</details>
+
+<details>
 <summary>Chow-Lam Recovery (<a href = "https://lematematiche.dmi.unict.it/index.php/lematematiche">Le Matematiche</a> 2025, with Kristian Ranestad)</summary>
 <hr>
-We explore the extend to which a subvariety of the Grassmannian can be uniquely recovered from its Chow-Lam form. Unlike the classical case of Chow forms for projective varieties, this is not always possible, and we provide several interesting families of counter-examples.
+We explore the extent to which a subvariety of the Grassmannian can be uniquely recovered from its Chow-Lam form. Unlike the classical case of Chow forms for projective varieties, this is not always possible, and we provide several interesting families of counter-examples.
 <hr>.
 </details>
 
@@ -86,20 +100,17 @@ We discover new examples of hypergeometric series which are quantum Jacobi forms
 <hr>
 </details>
 
-## Gallery:
+## <span title="graphic design is my passion">Gallery</span>
 <a href="https://arxiv.org/abs/2307.09603"><img src="/assets/images/grasstopes.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2303.11105"><img src="/assets/images/feynman.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2204.02971"><img src="/assets/images/elliptic.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/m05.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="150"></a>
-<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/schlegel.png" width="150"></a>
-<a href = "https://arxiv.org/abs/2412.02691"><img src="/assets/images/quadric.png" width="280"></a>
-
-<!--## Talks: 
-* D-modules and applications to Feynman Integrals, IAS Amplitudes seminar
-* D-modules and applications to Feynman integrals, Technische Universität München (TUM)
-* The Geometry of Elliptic Pairs, MPI Nonlinear Algebra Seminar
-* Quantum Jacobi forms and sums of tails identities, JMM 2021-->
+<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/schlegel.png" width="180"></a>
+<a href = "https://arxiv.org/abs/2412.02691"><img src="/assets/images/quadric.png" width="300"></a>
+<a href = "https://arxiv.org/abs/2507.17620"><img src="/assets/images/circuits4.png" width="350"></a>
+<a href = "https://arxiv.org/abs/2507.17620"><img src="/assets/images/disc5.png" width="150"></a>
+<a href = "https://arxiv.org/abs/2507.17620"><img src="/assets/images/posgraphs.png" width="380"></a>
 
 
 

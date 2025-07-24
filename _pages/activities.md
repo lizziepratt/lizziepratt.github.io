@@ -10,6 +10,10 @@ image:
 
 I am in Berkeley for Spring 2024. Here are some of my current and past activities.
 
+### Summer 2025
+* June 12: Talk at [MPI Nonlinear Algebra Seminar](https://www.mis.mpg.de/events/event/the-segre-determinant) (Leipzig, Germany) -->
+* July 7-11: Talk and Minisymposium at [SIAM AG 2025](https://www.siam.org/conferences-events/siam-conferences/ag25/) (Madison, WI)
+
 ### Spring 2025
 * April 22: Talk at [CAAG](https://eisenbud.github.io/deSeminar/Spring2025.html) (Berkeley, CA)
 * May 18-23: [Women and Math](https://www.ias.edu/math/wam/program-years/2025-program-women-and-mathematics) (Princeton, NJ)
