@@ -13,7 +13,7 @@ I am broadly interested in combinatorial algebraic geometry. Click on the triang
 ## Papers: 
 
 <details>
-<summary>Exterior Cyclic Polytopes and Convexity of Amplituhedra (<a href ="https://arxiv.org/abs/2507.17620">preprint</a>)</summary>
+<summary>Exterior Cyclic Polytopes and Convexity of Amplituhedra (<a href ="https://arxiv.org/abs/2507.17620">preprint</a>, with Elia Mazzucchelli)</summary>
 <hr>
 We show that the k=m=2 amplituhedron is the intersection of Gr(2,4) with a polytope, which we call the exterior cyclic polytope. Furthermore, we described the dual of this polytope in terms of the twist map of Marsh and Scott, and use this to define a notion of dual amplituhedron.
 <hr>.
@@ -27,7 +27,7 @@ The Segre determinant is a polynomial which encodes the condition for points to 
 </details>
 
 <details>
-<summary>FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (<a href ="https://arxiv.org/abs/2411.04872">preprint</a>)</summary>
+<summary>FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (<a href ="https://arxiv.org/abs/2411.04872">preprint</a>, with many co-authors)</summary>
 <hr>
 I contributed some problems to this problem bank, which serves as a benchmark for evaluating AI performance. The paper explains the methodology in more detail and evaluates several leading models on this problem set.
 <hr>.
@@ -59,7 +59,7 @@ We introduce the Chow-Lam form for subvarieties of the Grassmannian, generalizin
 
 <details>
 <summary> 
-Combinatorics of m=1 Grasstopes (<a href = "https://arxiv.org/abs/2307.09603">preprint</a>, with Yelena Mandelshtam and Dmitrii Pavlov) </summary>
+Combinatorics of m=1 Grasstopes (<a href = "https://escholarship.org/uc/item/71d8d238">Journal of Combinatorial Theory </a>>, with Yelena Mandelshtam and Dmitrii Pavlov) </summary>
 
 <hr>
 Grasstopes are a generalization of amplituhedra. Building on work of Karp and Williams on the m=1 amplituhedron, we show that m=1 Grasstopes consist of regions of a hyperplane arrangement characterized by a sign condition. 
