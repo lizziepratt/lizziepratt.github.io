@@ -8,7 +8,7 @@ excerpt: "My papers and talks"
 # classes: wide
 image:
 ---
-I am broadly interested in combinatorial algebraic geometry. Click on the triangle by each paper for a summary.
+I am broadly interested in combinatorial algebraic geometry. Most of my work is in positive geometry, an emerging field of math originating from computations in scattering amplitudes. Click on the triangle by each paper for a summary.
 
 ## Papers: 
 
