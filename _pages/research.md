@@ -44,7 +44,7 @@ We explore the extent to which a subvariety of the Grassmannian can be uniquely 
 
 <!---<img src="/assets/images/grasstopes.png" width="150">  -->
 <details>
-<summary>Wondertopes (<a href = "https://arxiv.org/abs/2403.04610">preprint</a>, with Sarah Brauner, Chris Eur, and Raluca Vlad)</summary>
+<summary>Wondertopes (<a href = "https://www.sciencedirect.com/science/article/pii/S0001870825004141">Advances in Math</a> 2025, with Sarah Brauner, Chris Eur, and Raluca Vlad)</summary>
 <hr>
 We provide a new type of positive geometry called a wondertope (wonderful polytope). It is constructed by pulling back an open region of a hyperplane arrangement to the wonderful compatification of the arrangement, then taking the Euclidean closure.
 <hr>
@@ -59,7 +59,7 @@ We introduce the Chow-Lam form for subvarieties of the Grassmannian, generalizin
 
 <details>
 <summary> 
-Combinatorics of m=1 Grasstopes (<a href = "https://escholarship.org/uc/item/71d8d238">Journal of Combinatorial Theory </a>>, with Yelena Mandelshtam and Dmitrii Pavlov) </summary>
+Combinatorics of m=1 Grasstopes (<a href = "https://escholarship.org/uc/item/71d8d238">Journal of Combinatorial Theory </a>, with Yelena Mandelshtam and Dmitrii Pavlov) </summary>
 
 <hr>
 Grasstopes are a generalization of amplituhedra. Building on work of Karp and Williams on the m=1 amplituhedron, we show that m=1 Grasstopes consist of regions of a hyperplane arrangement characterized by a sign condition. 
@@ -71,7 +71,7 @@ Grasstopes are a generalization of amplituhedra. Building on work of Karp and Wi
 
 <details>
 <summary> 
-D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals (<a href = "https://link.springer.com/article/10.1007/s11005-024-01835-7">Letters in Mathematical Physics</a> 2024, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia) </summary>
+D-Module Techniques for Solving Differential Equations in the Context of Feynman Integrals (<a href = "https://link.springer.com/article/10.1007/s11005-024-01835-7">Letters in Mathematical Physics</a>> 2024, with Johannes Henn, Anna-Laura Sattelberger, and Simone Zoia) </summary>
 
 <hr>
 We use D-module methods to construct series solutions to linear differential equations appearing in the context of Feynman integrals. 
