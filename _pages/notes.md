@@ -11,6 +11,7 @@ image:
 Here are some notes and slides from talks I have given.
 
 ## Talks:
+* Exterior Cyclic Polytopes and Convexity of Amplituhedra (Michigan Physics and Math) [pdf](assets/pdfs/ext_cyclic.pdf)
 * The Chow-Lam Form (SIAM 2025) [pdf](/assets/pdfs/Chow_Lam_SIAM25.pdf)
 * The Segre Determinant (MPI 2025) [pdf](/assets/pdfs/Segre_Talk.pdf)
 * The Chow-Lam Form (CMSA 2024) [pdf](/assets/pdfs/Chow_Lam_amp.pdf)
