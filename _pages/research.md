@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 path: /research/
 date: 2023-2-25
-last_modified_at: 2025-5-30
+last_modified_at: 2025-11-22
 excerpt: "My papers and talks"
 # classes: wide
 image:
@@ -11,6 +11,13 @@ image:
 I am broadly interested in combinatorial algebraic geometry. Most of my work is in positive geometry, an emerging field of math originating from computations in scattering amplitudes. Click on the triangle by each paper for a summary.
 
 ## Papers: 
+
+<details>
+<summary>Avoidance Loci of Real Projective Varieties (<a href ="https://arxiv.org/abs/2511.15888">preprint</a>, with Ada Wang)</summary>
+<hr>
+We define the avoidance locus to consist of real linear spaces intersecting a real projective variety at no real point. This generalizes the cone of positive polynomials, which consists of hyperplanes avoiding the Veronese variety. We prove that the avoidance locus is a union of non-adjacent regions in the complement of a higher Chow form.
+<hr>.
+</details>
 
 <details>
 <summary>Exterior Cyclic Polytopes and Convexity of Amplituhedra (<a href ="https://arxiv.org/abs/2507.17620">preprint</a>, with Elia Mazzucchelli)</summary>

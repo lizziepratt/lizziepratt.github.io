@@ -17,13 +17,14 @@ Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl
 Upcoming and recent travel:
 <!--* June 12: Talk at [MPI Nonlinear Algebra Seminar](https://www.mis.mpg.de/events/event/the-segre-determinant) (Leipzig, Germany) -->
 <!--* July 7-11: [SIAM AG 2025](https://www.siam.org/conferences-events/siam-conferences/ag25/) (Madison, WI)-->
-* September 24: Speaking at [Combinatorics Seminar](https://math.berkeley.edu/~mhanada/combinatorics_seminar.html) (UC Berkeley)
-* October 24-26: [Math-Physics Amplitudes Workshop](https://indico.global/event/15406/) (University of Michigan)
-* October 28: Speaking at [AGNT Seminar](https://www.math.ucdavis.edu/research/seminars?type=28&when=future) (UC Davis)
+<!--* September 24: Speaking at [Combinatorics Seminar](https://math.berkeley.edu/~mhanada/combinatorics_seminar.html) (UC Berkeley)-->
+<!--* October 24-26: [Math-Physics Amplitudes Workshop](https://indico.global/event/15406/) (University of Michigan)-->
+<!--* October 28: Speaking at [AGNT Seminar](https://www.math.ucdavis.edu/research/seminars?type=28&when=future) (UC Davis)-->
 * November 24: Speaking at [DGC Seminar](https://pi.math.cornell.edu/~webgeo/) (Cornell)
-* November 25-30: Princeton, NJ 
+* November 26-30: Princeton, NJ 
 * December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown)
-* January 4-7: [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)
+* December 22-Jan 3: Princeton, NJ
+* January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)
 
 I am supported by NSF GRFP no. 2023358166.
 
