@@ -2,8 +2,8 @@
 title: "Hello!"
 permalink: /
 path: /
-date: 2024-10-22
-last_modified_at: 2025-1-22
+date: 2025-12-12
+last_modified_at: 2025-12-12
 # excerpt: ""
 image:
 ---
@@ -20,9 +20,9 @@ Upcoming and recent travel:
 <!--* September 24: Speaking at [Combinatorics Seminar](https://math.berkeley.edu/~mhanada/combinatorics_seminar.html) (UC Berkeley)-->
 <!--* October 24-26: [Math-Physics Amplitudes Workshop](https://indico.global/event/15406/) (University of Michigan)-->
 <!--* October 28: Speaking at [AGNT Seminar](https://www.math.ucdavis.edu/research/seminars?type=28&when=future) (UC Davis)-->
-* November 24: Speaking at [DGC Seminar](https://pi.math.cornell.edu/~webgeo/) (Cornell)
-* November 26-30: Princeton, NJ 
-* December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown)
+<!--* November 24: Speaking at [DGC Seminar](https://pi.math.cornell.edu/~webgeo/) (Cornell)
+November 26-30: Princeton, NJ 
+December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown)-->
 * December 22-Jan 3: Princeton, NJ
 * January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)
 

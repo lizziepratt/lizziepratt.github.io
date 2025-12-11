@@ -2,15 +2,17 @@
 title: "Research"
 permalink: /research/
 path: /research/
-date: 2023-2-25
+date: 2025-12-12
 last_modified_at: 2025-11-22
 excerpt: "My papers and talks"
 # classes: wide
 image:
 ---
-I am broadly interested in combinatorial algebraic geometry. Most of my work is in positive geometry, an emerging field of math originating from computations in scattering amplitudes. Click on the triangle by each paper for a summary.
+I am broadly interested in combinatorial algebraic geometry. Most of my work is in positive geometry, which studies semi-algebraic subsets of real algebraic varieties defined by natural positivity conditions. The Ur-example is the positive Grassmannian, and other examples include polytopes, the moduli space of points on a line, and positive parts of many homogeneous spaces. This is a relatively new field of math inspired by computations in scattering amplitudes. 
 
-## Papers: 
+Click on the triangle by each paper for a summary.
+
+## Papers
 
 <details>
 <summary>Avoidance Loci of Real Projective Varieties (<a href ="https://arxiv.org/abs/2511.15888">preprint</a>, with Ada Wang)</summary>
@@ -108,11 +110,13 @@ We discover new examples of hypergeometric series which are quantum Jacobi forms
 </details>
 
 ## <span title="graphic design is my passion">Gallery</span>
+<a href="https://arxiv.org/abs/2511.15888"><img src="/assets/images/trott_avoidance.png" width="300"></a>
+<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="200"></a>
+
 <a href="https://arxiv.org/abs/2307.09603"><img src="/assets/images/grasstopes.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2303.11105"><img src="/assets/images/feynman.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2204.02971"><img src="/assets/images/elliptic.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/m05.png" width="150"></a>
-<a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/schlegel.png" width="180"></a>
 <a href = "https://arxiv.org/abs/2412.02691"><img src="/assets/images/quadric.png" width="300"></a>
 <a href = "https://arxiv.org/abs/2507.17620"><img src="/assets/images/circuits4.png" width="350"></a>
