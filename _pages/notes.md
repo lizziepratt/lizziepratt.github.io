@@ -11,7 +11,7 @@ image:
 Here are some notes and slides from talks I have given.
 
 ## Talks
-* The Chow-Lam Form(JMM 2026) [pdf](/assets/pdfs/Segre_Talk_JMM.pdf)
+* The Chow-Lam Form (JMM 2026) [pdf](/assets/pdfs/segre_jmm.pdf)
 * Exterior Cyclic Polytopes and Convexity of Amplituhedra (AGNT) [pdf](/assets/pdfs/ext_cyclic_agnt.pdf)
 * Exterior Cyclic Polytopes and Convexity of Amplituhedra (Michigan Math-Physics Amplitudes) [pdf](/assets/pdfs/ext_cyclic.pdf)
 * The Chow-Lam Form (SIAM 2025) [pdf](/assets/pdfs/Chow_Lam_SIAM25.pdf)
