@@ -3,7 +3,7 @@ title: "Seminar"
 permalink: /seminar/
 path: /seminar/
 date: 2023-10-27
-last_modified_at: 2025-1-22
+last_modified_at: 2026-1-22
 excerpt: ""
 image:
 ---
@@ -16,6 +16,7 @@ Reference: Equivariant Cohomology (Fulton and Anderson)-->
 Co-organized with Smita Rajan. \
 Spacetime: TBD in Evans 762 \
 Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf)
+
 | Date    | Speaker | Topic|
 | -------- | ------- |------- |
 |  2/02 | TBD  | Planning + section 1 |
