@@ -26,7 +26,7 @@ Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf
 |  3/2 | Jo Hlavinka | Section 5 (Hodge theory of Riemannian manifolds)|
 |  3/9 | Cameron Chang | Section 6 (Hodge theory of complex manifolds)|
 |  3/16 | Sam Mayo | Section 7 (Kähler manifolds)|
-|  3/30 | Charlotte Kiesling | Section 8 (Chern classes)|
+|  3/30 | Charlotte Keisling | Section 8 (Chern classes)|
 |  4/6 | Xiangru Zeng | Section 9 (Cohomology computations)|
 |  4/13 | Sophie McCormick | Section 10 (Pure Hodge structures)|
 
