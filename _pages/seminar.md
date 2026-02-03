@@ -21,7 +21,7 @@ Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf
 | -------- | ------- |------- |
 |  2/02 | TBD  | Organization |
 |  2/09 | Smita Rajan  | Sections 1-2 (Topology, complex analysis)|
-|  2/18 | Lizzie Pratt | Section 3 (Complex manifolds + GAGA)|
+|  2/18 | Lizzie Pratt | Section 3 (Complex manifolds + GAGA). Time = 2:30-3:30|
 |  2/23 | Sam Lidz | Section 4 (Dolbeaux cohomology)|
 |  3/2 | Jo Hlavinka | Section 5 (Hodge theory of Riemannian manifolds)|
 |  3/9 | Cameron Chang | Section 6 (Hodge theory of complex manifolds)|
@@ -81,9 +81,9 @@ Reference: 3264 and All That (Eisenbud and Harris)
 | 9/25 | Lizzie Pratt     |Sections 1.1-3 |
 | 10/2  | Rose Lopez  | Section 1.4 |
 | 10/9  | Rose Lopez  | Section 1.4 |
-| 10/16  | Joe Hlavinka   | Section 2.1 |
-| 10/23  | Joe Hlavinka   | Section 2.2 |
-| 10/30  | Joe Hlavinka   | Section 2.2 and exercises|
+| 10/16  | Jo Hlavinka   | Section 2.1 |
+| 10/23  | Jo Hlavinka   | Section 2.2 |
+| 10/30  | Jo Hlavinka   | Section 2.2 and exercises|
 | 11/6  | Jesse Selover   | Section 2.2 and exercises |
 | 11/13  | Jesse Selover   | More exercises |
 
