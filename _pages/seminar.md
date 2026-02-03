@@ -14,12 +14,21 @@ Reference: Equivariant Cohomology (Fulton and Anderson)-->
 
 ## Hodge Theory (Spring 2026)
 Co-organized with Smita Rajan. \
-Spacetime: TBD in Evans 762 \
-Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf)
+Spacetime: 3:40-5 in Evans 762 \
+Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf) (course by Mircea Mustață, notes by Aleksander Horawa)
 
 | Date    | Speaker | Topic|
 | -------- | ------- |------- |
-|  2/02 | TBD  | Planning + section 1 |
+|  2/02 | TBD  | Organization |
+|  2/09 | Smita Rajan  | Sections 1-2 (Topology, complex analysis)|
+|  2/18 | Lizzie Pratt | Section 3 (Complex manifolds + GAGA)|
+|  2/23 | Sam Lidz | Section 4 (Dolbeaux cohomology)|
+|  3/2 | Jo Hlavinka | Section 5 (Hodge theory of Riemannian manifolds)|
+|  3/9 | Cameron Chang | Section 6 (Hodge theory of complex manifolds)|
+|  3/16 | Sam Mayo | Section 7 (Kähler manifolds)|
+|  3/30 | Charlotte Kiesling | Section 8 (Chern classes)|
+|  4/6 | Xiangru Zeng | Section 9 (Cohomology computations)|
+|  4/13 | Sophie McCormick | Section 10 (Pure Hodge structures)|
 
 ## Tropical Geometry (Spring 2025)
 Co-organized with Smita Rajan. \
