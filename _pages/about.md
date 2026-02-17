@@ -8,7 +8,7 @@ last_modified_at: 2025-12-12
 image:
 ---
 
-I am a fourth year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before that I was at Amherst College, where I completed a senior thesis on elliptic pairs under the guidance of Jenia Tevelev. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. In my free time, I rock climb, run, drink coffee, and read comics. I am on the job market in Fall 2025.
+I am a fourth year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before that I was at Amherst College, where I completed a senior thesis on elliptic pairs under the guidance of Jenia Tevelev. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. In my free time, I rock climb, run, drink coffee, and read comics. 
 
 Contact: epratt [symbol] berkeley [symbol] edu
 
@@ -22,9 +22,11 @@ Upcoming and recent travel:
 <!--* October 28: Speaking at [AGNT Seminar](https://www.math.ucdavis.edu/research/seminars?type=28&when=future) (UC Davis)-->
 <!--* November 24: Speaking at [DGC Seminar](https://pi.math.cornell.edu/~webgeo/) (Cornell)
 November 26-30: Princeton, NJ 
-December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown)-->
-* December 22-Jan 3: Princeton, NJ
-* January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)
+December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown)
+* January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)-->
+* February 16-20: Participating in [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/) (Vienna, Austria)
+* February 21: Back in Berkeley
+
 
 I am supported by NSF GRFP no. 2023358166.
 
