@@ -15,6 +15,13 @@ Click on the triangle by each paper for a summary.
 ## Preprints
 
 <details>
+<summary>Multigraded Hurwitz Forms (<a href ="https://arxiv.org/abs/2602.19563">preprint</a>, with Luca Sodomaco and Bernd Sturmfels)</summary>
+<hr>
+The Hurwitz form of a projective variety characterizes linear spaces of complementary dimension which meet the variety non-transversally. We extend this notion to varieties in a product of projective spaces and give degree formulas. This has applications to Nash equilibria in game theory and Feynman integrals in physics.
+<hr>.
+</details>
+
+<details>
 <summary>Avoidance Loci of Real Projective Varieties (<a href ="https://arxiv.org/abs/2511.15888">preprint</a>, with Ada Wang)</summary>
 <hr>
 We define the avoidance locus to consist of real linear spaces intersecting a real projective variety at no real point. This generalizes the cone of positive polynomials, which consists of hyperplanes avoiding the Veronese variety. We prove that the avoidance locus is a union of non-adjacent regions in the complement of a higher Chow form.
@@ -29,7 +36,7 @@ We show that the k=m=2 amplituhedron is the intersection of Gr(2,4) with a polyt
 </details>
 
 <details>
-<summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204">preprint</a>)</summary>
+<summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204">preprint, to appear in Orbita Mathematicae</a>)</summary>
 <hr>
 The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
 <hr>.
