@@ -12,7 +12,7 @@ I am broadly interested in combinatorial algebraic geometry. Most of my work is 
 
 Click on the triangle by each paper for a summary.
 
-## Papers
+## Preprints
 
 <details>
 <summary>Avoidance Loci of Real Projective Varieties (<a href ="https://arxiv.org/abs/2511.15888">preprint</a>, with Ada Wang)</summary>
@@ -41,6 +41,8 @@ The Segre determinant is a polynomial which encodes the condition for points to 
 I contributed some problems to this problem bank, which serves as a benchmark for evaluating AI performance. The paper explains the methodology in more detail and evaluates several leading models on this problem set.
 <hr>.
 </details>
+
+## Papers
 
 <details>
 <summary>Chow-Lam Recovery (<a href = "https://lematematiche.dmi.unict.it/index.php/lematematiche">Le Matematiche</a> 2025, with Kristian Ranestad)</summary>

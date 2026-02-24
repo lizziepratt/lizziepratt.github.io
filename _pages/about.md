@@ -21,9 +21,8 @@ Upcoming and recent travel:
 <!--* October 24-26: [Math-Physics Amplitudes Workshop](https://indico.global/event/15406/) (University of Michigan)-->
 <!--* October 28: Speaking at [AGNT Seminar](https://www.math.ucdavis.edu/research/seminars?type=28&when=future) (UC Davis)-->
 <!--* November 24: Speaking at [DGC Seminar](https://pi.math.cornell.edu/~webgeo/) (Cornell)
-November 26-30: Princeton, NJ 
-December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown)
-* January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)-->
+November 26-30: Princeton, NJ -->
+<!--*December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown) * January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)-->
 * February 16-20: Participating in [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/) (Vienna, Austria)
 * February 21: Back in Berkeley
 
