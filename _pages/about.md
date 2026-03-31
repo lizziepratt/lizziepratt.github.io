@@ -32,6 +32,6 @@ November 26-30: Princeton, NJ -->
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
 
 
-I am grateful for the support of NSF GRFP no. 2023358166 during my graduate career, and for the current support of a UC Davis Chancellor's [fellowship](https://grad.ucdavis.edu/chancellors-postdoctoral-fellowship-program-cpfp). 
+I am grateful for the support of NSF GRFP no. 2023358166 during my graduate career, and for the current support of a UC Davis Chancellor's fellowship. 
 
 ![alt text](/assets/images/oslo2.jpg "Title")
