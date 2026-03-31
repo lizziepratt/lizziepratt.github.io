@@ -17,5 +17,7 @@ custom_css: {{my_css.css}}
 	- Ctrl-Shift-P to open command palette
 	- "Markdown: Open Preview to the Side"
 
+6. My github profile pic is: https://picrew.me/en/image_maker/1108773
+
 
 
