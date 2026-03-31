@@ -24,7 +24,7 @@ Upcoming and recent travel:
 November 26-30: Princeton, NJ -->
 <!--*December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown) * January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)-->
 <!--* February 16-20: Participating in [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/) (Vienna, Austria)-->
-* April 1- September 1: Chancellor's postdoctoral fellow, mentored by Jaraslav Trnka (UC Davis)
+* April 1- September 1: Chancellor's postdoctoral fellow, mentored by Jaroslav Trnka (UC Davis)
 * May 6: Online talk in [MaPhyAG Seminar](https://sites.google.com/ucm.es/maphyag-research-group/maphyag-seminar?authuser=0) 
 * May 22: UC Berkeley graduation
 * July 6-10: Speaking at [MEGA](https://maths.dur.ac.uk/mega2026/registration/) (Durham University, UK)
