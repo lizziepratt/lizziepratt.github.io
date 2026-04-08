@@ -29,6 +29,7 @@ Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf
 |  4/6 | Charlotte Keisling | Section 8 (Chern classes)|
 |  4/13 | Xiangru Zeng | Section 9 (Cohomology computations)|
 |  4/20 | Sophie McCormick | Section 10 (Pure Hodge structures)|
+|  4/27 | Jo Hlavinka | Section 11 (Algebaic de Rham cohomology)|
 
 ## Tropical Geometry (Spring 2025)
 Co-organized with Smita Rajan. \
