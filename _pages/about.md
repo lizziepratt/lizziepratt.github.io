@@ -8,7 +8,7 @@ last_modified_at: 2026-3-31
 image:
 ---
 
-I am a fourth year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before that I was at Amherst College, where I completed a senior thesis on elliptic pairs under the guidance of Jenia Tevelev. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. In my free time, I rock climb, run, drink coffee, and read comics. I am currently based at UC Berkeley and UC Davis and will be moving to Perimeter Institute for Theoretical Physics in the fall.
+I am a postdoc currently based UC Davis, and will be moving to Perimeter Institute for Theoretical Physics in the fall. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, drink coffee, read comics, and as of recently, play guitar. 
 
 Contact: epratt [symbol] berkeley [symbol] edu
 
@@ -27,9 +27,11 @@ November 26-30: Princeton, NJ -->
 * April 1- September 1: Chancellor's postdoctoral fellow, mentored by Jaroslav Trnka (UC Davis)
 * May 6: Online talk in [MaPhyAG Seminar](https://sites.google.com/ucm.es/maphyag-research-group/maphyag-seminar?authuser=0) 
 * May 22: UC Berkeley graduation
+* May 30-31: Speaking at [California Amplitudes Meeting](https://qmap.ucdavis.edu/california-amplitudes-meeting-2026)
 * July 6-10: Speaking at [MEGA](https://maths.dur.ac.uk/mega2026/registration/) (Durham University, UK)
 * July 10- August 10: Visiting Max Planck Institute (Leipzig, Germany)
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
+* September 28-October 2: Universe+ annual meeting (University of Cambridge, UK)
 
 
 I am grateful for the support of NSF GRFP no. 2023358166 during my graduate career, and for the current support of a UC Davis Chancellor's fellowship. 
