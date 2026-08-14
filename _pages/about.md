@@ -8,7 +8,7 @@ last_modified_at: 2026-3-31
 image:
 ---
 
-I am a postdoc currently based UC Davis, and will be moving to Perimeter Institute for Theoretical Physics in the fall. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, drink coffee, read comics, and as of recently, play guitar. 
+I am currently a Chancellor's Fellow at UC Davis, and will be moving to Perimeter Institute for Theoretical Physics in the September. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
 
 Contact: epratt [symbol] berkeley [symbol] edu
 
@@ -24,12 +24,13 @@ Upcoming and recent travel:
 November 26-30: Princeton, NJ -->
 <!--*December 1: Speaking at [Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home) (Brown) * January 4-7: Speaking at [JMM](https://jointmathematicsmeetings.org/jmm) (Washington, DC)-->
 <!--* February 16-20: Participating in [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/) (Vienna, Austria)-->
-* April 1- September 1: Chancellor's postdoctoral fellow, mentored by Jaroslav Trnka (UC Davis)
+<!--* April 1- September 1: Chancellor's postdoctoral fellow, mentored by Jaroslav Trnka (UC Davis)
 * May 6: Online talk in [MaPhyAG Seminar](https://sites.google.com/ucm.es/maphyag-research-group/maphyag-seminar?authuser=0) 
 * May 22: UC Berkeley graduation
 * May 30-31: Speaking at [California Amplitudes Meeting](https://qmap.ucdavis.edu/california-amplitudes-meeting-2026)
 * July 6-10: Speaking at [MEGA](https://maths.dur.ac.uk/mega2026/registration/) (Durham University, UK)
 * July 10- August 10: Visiting Max Planck Institute (Leipzig, Germany)
+* August 4: speaking in the Positive Geometry seminar -->
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
 * September 28-October 2: Universe+ annual meeting (University of Cambridge, UK)
 

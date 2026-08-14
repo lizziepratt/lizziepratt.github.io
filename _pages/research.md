@@ -15,6 +15,13 @@ Click on the triangle by each paper for a summary.
 ## Preprints
 
 <details>
+<summary>Log Canonical Models and Positive Geometries (<a href ="https://arxiv.org/abs/2607.28368">preprint</a>, with Ben Hollering and Dmitrii Pavlov)</summary>
+<hr>
+We show that under suitable conditions, the canonical forms of Brown-Dupont give a natural coordinate system for the log canonical compactification of an open variety. We apply this theory to complements of hyperplane arrangements, cubic surfaces with lines removed, and the open moduli space of marked cubic del Pezzo surfaces.
+<hr>.
+</details>
+
+<details>
 <summary>Multigraded Hurwitz Forms (<a href ="https://arxiv.org/abs/2602.19563">preprint</a>, with Luca Sodomaco and Bernd Sturmfels)</summary>
 <hr>
 The Hurwitz form of a projective variety characterizes linear spaces of complementary dimension which meet the variety non-transversally. We extend this notion to varieties in a product of projective spaces and give degree formulas. This has applications to Nash equilibria in game theory and Feynman integrals in physics.
@@ -22,7 +29,7 @@ The Hurwitz form of a projective variety characterizes linear spaces of compleme
 </details>
 
 <details>
-<summary>Avoidance Loci of Real Projective Varieties (<a href ="https://arxiv.org/abs/2511.15888">preprint</a>, with Ada Wang)</summary>
+<summary>Avoidance Loci of Real Projective Varieties (<a href ="https://arxiv.org/abs/2511.15888">preprint</a>, with Kexin (Ada) Wang)</summary>
 <hr>
 We define the avoidance locus to consist of real linear spaces intersecting a real projective variety at no real point. This generalizes the cone of positive polynomials, which consists of hyperplanes avoiding the Veronese variety. We prove that the avoidance locus is a union of non-adjacent regions in the complement of a higher Chow form.
 <hr>.
@@ -36,13 +43,6 @@ We show that the k=m=2 amplituhedron is the intersection of Gr(2,4) with a polyt
 </details>
 
 <details>
-<summary>The Segre Determinant (<a href ="https://arxiv.org/abs/2505.09204">preprint, to appear in Orbita Mathematicae</a>)</summary>
-<hr>
-The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
-<hr>.
-</details>
-
-<details>
 <summary>FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (<a href ="https://arxiv.org/abs/2411.04872">preprint</a>, with many co-authors)</summary>
 <hr>
 I contributed some problems to this problem bank, which serves as a benchmark for evaluating AI performance. The paper explains the methodology in more detail and evaluates several leading models on this problem set.
@@ -50,6 +50,13 @@ I contributed some problems to this problem bank, which serves as a benchmark fo
 </details>
 
 ## Papers
+
+<details>
+<summary>The Segre Determinant (<a href ="https://msp.org/om/2026/3-2/om-v3-n2-p01-p.pdf">Orbita Mathematicae 2026</a>)</summary>
+<hr>
+The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
+<hr>.
+</details>
 
 <details>
 <summary>Chow-Lam Recovery (<a href = "https://lematematiche.dmi.unict.it/index.php/lematematiche">Le Matematiche</a> 2025, with Kristian Ranestad)</summary>
