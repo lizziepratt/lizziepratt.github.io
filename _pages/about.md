@@ -8,7 +8,7 @@ last_modified_at: 2026-3-31
 image:
 ---
 
-I am currently a Chancellor's Fellow at UC Davis, and will be moving to Perimeter Institute for Theoretical Physics in the September. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
+I am currently a Chancellor's Fellow at UC Davis, and will be moving to Perimeter Institute for Theoretical Physics in September. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
 
 Contact: epratt [symbol] berkeley [symbol] edu
 
@@ -35,7 +35,9 @@ November 26-30: Princeton, NJ -->
 * August 4: speaking in the Positive Geometry seminar
 {% endcomment %}
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
+* September 24: Speaking in [Waterloo Combinatorics Seminar](https://combinatorics.chat/) 
 * September 28-October 2: Universe+ annual meeting (University of Cambridge, UK)
+* April 26th - May 22nd 2027: Participating in [Combinatorics and Geometries for Particle Physics and Cosmology](Combinatorics and Geometries for Particle Physics and Cosmology) (Santa Barbara, CA)
 
 
 I am grateful for the support of NSF GRFP no. 2023358166 during my graduate career, and for the current support of a UC Davis Chancellor's fellowship. 
