@@ -25,7 +25,7 @@ Here are some notes and slides from talks I have given.
 
 ## Other
 * My PhD dissertation [pdf](/assets/pdfs/thesis.pdf)
-* My qualifying exam transcript [pdf](/assets/pdfs/qual.pdf)
+<!--* My qualifying exam transcript [pdf](/assets/pdfs/qual.pdf)-->
 * Code to convert a standard Young tableau into a web via Khovanov-Kuperberg growth rules [here](https://github.com/lizziepratt/KhovanovKuperberg)
 
 
