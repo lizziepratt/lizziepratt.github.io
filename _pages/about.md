@@ -8,9 +8,9 @@ last_modified_at: 2026-3-31
 image:
 ---
 
-I am currently a Chancellor's Fellow at UC Davis, and will be moving to Perimeter Institute for Theoretical Physics in September. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
+I am currently a postdoctoral fellow at Perimeter Institute for Theoretical Physics. My mathematical interests include combinatorial algebraic geometry and applications to scattering amplitudes in physics. I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
 
-Contact: epratt [symbol] berkeley [symbol] edu
+Contact: lpratt [symbol] perimeterinstitute[symbol] ca
 
 Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en)
 
