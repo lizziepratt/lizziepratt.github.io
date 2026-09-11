@@ -42,12 +42,6 @@ We show that the k=m=2 amplituhedron is the intersection of Gr(2,4) with a polyt
 <hr>.
 </details>
 
-<details>
-<summary>FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (<a href ="https://arxiv.org/abs/2411.04872">preprint</a>, with many co-authors)</summary>
-<hr>
-I contributed some problems to this problem bank, which serves as a benchmark for evaluating AI performance. The paper explains the methodology in more detail and evaluates several leading models on this problem set.
-<hr>.
-</details>
 
 ## Papers
 
@@ -123,6 +117,14 @@ In this paper we classify toric elliptic pairs of Picard number two. These ellip
 <hr>
 We discover new examples of hypergeometric series which are quantum Jacobi forms, i.e. satisfy a modular transformation property up to an analytic error term.
 <hr>
+</details>
+
+## Other 
+<details>
+<summary>FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (<a href ="https://arxiv.org/abs/2411.04872">preprint</a>, with many co-authors)</summary>
+<hr>
+I contributed some problems to this problem bank, which serves as a benchmark for evaluating AI performance. The paper explains the methodology in more detail and evaluates several leading models on this problem set.
+<hr>.
 </details>
 
 ## <span title="graphic design is my passion">Gallery</span>
