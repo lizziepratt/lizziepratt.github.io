@@ -37,9 +37,10 @@ November 26-30: Princeton, NJ -->
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
 * September 24: Speaking in [Waterloo Combinatorics Seminar](https://combinatorics.chat/) 
 * September 28-October 2: Universe+ annual meeting (University of Cambridge, UK)
-* April 26th - May 22nd 2027: Participating in [Combinatorics and Geometries for Particle Physics and Cosmology](Combinatorics and Geometries for Particle Physics and Cosmology) (Santa Barbara, CA)
+* April 26th - May 22nd 2027: Participating in [Combinatorics and Geometries for Particle Physics and Cosmology](https://www.kitp.ucsb.edu/activities/COMBGEOM27) (Santa Barbara, CA)
 
 
-I am grateful for the support of NSF GRFP no. 2023358166 during my graduate career, for the support of a UC Davis Chancellor's fellowship during April-August 2026, and for the current support of a Perimeter Postdoctoral Research Fellowship.
 
 ![alt text](/assets/images/oslo2.jpg "Title")
+
+I am grateful for the support of NSF GRFP no. 2023358166 during my graduate career, for the support of a UC Davis Chancellor's fellowship during April-August 2026, and for the current support of a Perimeter Postdoctoral Research Fellowship.

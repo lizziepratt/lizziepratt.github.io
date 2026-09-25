@@ -15,6 +15,13 @@ Click on the triangle by each paper for a summary.
 ## Preprints
 
 <details>
+<summary>Conormal Rank of Subvarieties of Grassmannians (<a href ="https://arxiv.org/abs/2609.24694">preprint</a>)</summary>
+<hr>
+We introduce a notion of rank for a subvariety of a Grassmannian. We generalize a result of Gelfand-Kapranov-Zelevinsky that associated hypersurfaces of projective varieties are rank one (coisotropic) hypersurfaces.
+<hr>.
+</details>
+
+<details>
 <summary>Log Canonical Models and Positive Geometries (<a href ="https://arxiv.org/abs/2607.28368">preprint</a>, with Ben Hollering and Dmitrii Pavlov)</summary>
 <hr>
 We show that under suitable conditions, the canonical forms of Brown-Dupont give a natural coordinate system for the log canonical compactification of an open variety. We apply this theory to complements of hyperplane arrangements, cubic surfaces with lines removed, and the open moduli space of marked cubic del Pezzo surfaces.
@@ -46,7 +53,7 @@ We show that the k=m=2 amplituhedron is the intersection of Gr(2,4) with a polyt
 ## Papers
 
 <details>
-<summary>The Segre Determinant (<a href ="https://msp.org/om/2026/3-2/om-v3-n2-p01-p.pdf">Orbita Mathematicae 2026</a>)</summary>
+<summary>The Segre Determinant (<a href ="https://msp.org/om/2026/3-2/om-v3-n2-p01-p.pdf">Orbita Mathematicae</a> 2026)</summary>
 <hr>
 The Segre determinant is a polynomial which encodes the condition for points to lie on a bilinear hypersurface in the product of projective spaces. We show that the Segre determinant represents the Chow-Lam form of a generic torus orbit in the Grassmannian, and gives some applications to algebraic vision and to Chow quotients of Grassmannians.
 <hr>.
@@ -78,7 +85,7 @@ We introduce the Chow-Lam form for subvarieties of the Grassmannian, generalizin
 
 <details>
 <summary> 
-Combinatorics of m=1 Grasstopes (<a href = "https://escholarship.org/uc/item/71d8d238">Journal of Combinatorial Theory </a>, with Yelena Mandelshtam and Dmitrii Pavlov) </summary>
+Combinatorics of m=1 Grasstopes (<a href = "https://escholarship.org/uc/item/71d8d238">Journal of Combinatorial Theory </a> 2025, with Yelena Mandelshtam and Dmitrii Pavlov) </summary>
 
 <hr>
 Grasstopes are a generalization of amplituhedra. Building on work of Karp and Williams on the m=1 amplituhedron, we show that m=1 Grasstopes consist of regions of a hyperplane arrangement characterized by a sign condition. 
