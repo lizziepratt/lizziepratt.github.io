@@ -3,12 +3,12 @@ title: "Hello!"
 permalink: /
 path: /
 date: 2025-12-12
-last_modified_at: 2026-9-09
+last_modified_at: 2026-10-11
 # excerpt: ""
 image:
 ---
 
-I am currently a postdoctoral fellow at Perimeter Institute for Theoretical Physics. My mathematical interests include combinatorial algebraic geometry and applications to scattering amplitudes in physics. Before that I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote a senior thesis on elliptic pairs under the guidance of Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
+I am currently a postdoctoral fellow at Perimeter Institute for Theoretical Physics. My mathematical interests include combinatorial algebraic geometry and applications to scattering amplitudes. Before that I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote an undergraduate thesis mentored by Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
 
 Contact: lpratt [symbol] perimeterinstitute [symbol] ca
 
@@ -33,10 +33,11 @@ November 26-30: Princeton, NJ -->
 * July 6-10: Speaking at [MEGA](https://maths.dur.ac.uk/mega2026/registration/) (Durham University, UK)
 * July 10- August 10: Visiting Max Planck Institute (Leipzig, Germany)
 * August 4: speaking in the Positive Geometry seminar
-{% endcomment %}
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
 * September 24: Speaking in [Waterloo Combinatorics Seminar](https://combinatorics.chat/) 
+{% endcomment %}
 * September 28-October 2: Universe+ annual meeting (University of Cambridge, UK)
+* October 28: Speaking in [Universe+ Seminar](https://positive-geometry.com/events/online-seminars)
 * April 26th - May 22nd 2027: Participating in [Combinatorics and Geometries for Particle Physics and Cosmology](https://www.kitp.ucsb.edu/activities/COMBGEOM27) (Santa Barbara, CA)
 
 

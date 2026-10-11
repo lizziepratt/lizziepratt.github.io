@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 path: /research/
 date: 2025-12-12
-last_modified_at: 2023-03-31
+last_modified_at: 2026-10-11
 excerpt: "My papers and talks"
 # classes: wide
 image:
@@ -13,6 +13,13 @@ I am broadly interested in combinatorial algebraic geometry. Most of my work is 
 Click on the triangle by each paper for a summary.
 
 ## Preprints
+
+<details>
+<summary>A Mathematical Perspective on Nonplanar On-Shell Forms (<a href ="https://arxiv.org/abs/2610.10041">preprint</a>, with Artyom Lisitsyn, Melissa Sherman-Bennett, and Jaroslav Trnka)</summary>
+<hr>
+On-shell forms are differential forms on the Grassmannian which arise in particle physics, and generalize the canonical forms of positrioid cells.  We prove a determinantal formula for k=2 on-shell forms and exhibit a connection to the hypertree divisors of Castravet-Tevelet.
+<hr>.
+</details>
 
 <details>
 <summary>Conormal Rank of Subvarieties of Grassmannians (<a href ="https://arxiv.org/abs/2609.24694">preprint</a>)</summary>
@@ -137,6 +144,7 @@ I contributed some problems to this problem bank, which serves as a benchmark fo
 ## <span title="graphic design is my passion">Gallery</span>
 <a href="https://arxiv.org/abs/2511.15888"><img src="/assets/images/trott_avoidance.png" width="300"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="200"></a>
+<a href = "https://arxiv.org/abs/2610.10041"><img src="/assets/images/onshell.png" width="200"></a>
 
 <a href="https://arxiv.org/abs/2307.09603"><img src="/assets/images/grasstopes.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2303.11105"><img src="/assets/images/feynman.png" width="150"></a>
