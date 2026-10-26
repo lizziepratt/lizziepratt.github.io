@@ -17,7 +17,7 @@ Click on the triangle by each paper for a summary.
 <details>
 <summary>A Mathematical Perspective on Nonplanar On-Shell Forms (<a href ="https://arxiv.org/abs/2610.10041">preprint</a>, with Artyom Lisitsyn, Melissa Sherman-Bennett, and Jaroslav Trnka)</summary>
 <hr>
-On-shell forms are differential forms on the Grassmannian which arise in particle physics, and generalize the canonical forms of positrioid cells.  We prove a determinantal formula for k=2 on-shell forms and exhibit a connection to the hypertree divisors of Castravet-Tevelet.
+On-shell forms are differential forms on the Grassmannian which arise in particle physics, and generalize the canonical forms of positroid cells.  We prove a determinantal formula for k=2 on-shell forms and exhibit a connection to the hypertree divisors of Castravet-Tevelev.
 <hr>.
 </details>
 
@@ -79,7 +79,7 @@ We explore the extent to which a subvariety of the Grassmannian can be uniquely 
 <details>
 <summary>Wondertopes (<a href = "https://www.sciencedirect.com/science/article/pii/S0001870825004141">Advances in Math</a> 2025, with Sarah Brauner, Chris Eur, and Raluca Vlad)</summary>
 <hr>
-We provide a new type of positive geometry called a wondertope (wonderful polytope). It is constructed by pulling back an open region of a hyperplane arrangement to the wonderful compatification of the arrangement, then taking the Euclidean closure.
+We provide a new type of positive geometry called a wondertope (wonderful polytope). It is constructed by pulling back an open region of a hyperplane arrangement to the wonderful compactification of the arrangement, then taking the Euclidean closure.
 <hr>
 </details>
 
@@ -145,7 +145,6 @@ I contributed some problems to this problem bank, which serves as a benchmark fo
 <a href="https://arxiv.org/abs/2511.15888"><img src="/assets/images/trott_avoidance.png" width="300"></a>
 <a href = "https://arxiv.org/abs/2403.04610"><img src="/assets/images/pyramid.png" width="200"></a>
 <a href = "https://arxiv.org/abs/2610.10041"><img src="/assets/images/onshell.png" width="200"></a>
-
 <a href="https://arxiv.org/abs/2307.09603"><img src="/assets/images/grasstopes.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2303.11105"><img src="/assets/images/feynman.png" width="150"></a>
 <a href = "https://arxiv.org/abs/2204.02971"><img src="/assets/images/elliptic.png" width="150"></a>

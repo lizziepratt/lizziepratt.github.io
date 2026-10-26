@@ -22,14 +22,14 @@ Reference: These [notes](https://people.maths.ox.ac.uk/horawa/math_731_Hodge.pdf
 |  2/02 | TBD  | Organization |
 |  2/09 | Smita Rajan  | Sections 1-2 (Topology, complex analysis)|
 |  2/23 | Lizzie Pratt | Section 3 (Complex manifolds + GAGA)|
-|  3/2 | Sam Lidz | Section 4 (Dolbeaux cohomology)|
+|  3/2 | Sam Lidz | Section 4 (Dolbeault cohomology)|
 |  3/9 | Jo Hlavinka | Section 5 (Hodge theory of Riemannian manifolds)|
 |  3/16 | Cameron Chang | Section 6 (Hodge theory of complex manifolds)|
 |  3/30 | Sam Mayo | Section 7 (Kähler manifolds)|
 |  4/6 | Charlotte Keisling | Section 8 (Chern classes)|
 |  4/13 | Xiangru Zeng | Section 9 (Cohomology computations)|
 |  4/20 | Sophie McCormick | Section 10 (Pure Hodge structures)|
-|  4/27 | Jo Hlavinka | Section 11 (Algebaic de Rham cohomology)|
+|  4/27 | Jo Hlavinka | Section 11 (Algebraic de Rham cohomology)|
 
 ## Tropical Geometry (Spring 2025)
 Co-organized with Smita Rajan. \

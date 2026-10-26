@@ -11,7 +11,7 @@ image:
 Here are some notes and slides from talks I have given.
 
 ## Talks
-* Mutigraded Hurwitz Forms (MaPhyAG 2026) [pdf](/assets/pdfs/hurwitz_talk.pdf)
+* Multigraded Hurwitz Forms (MaPhyAG 2026) [pdf](/assets/pdfs/hurwitz_talk.pdf)
 * Exterior Cyclic Polytopes and Convexity of Amplituhedra (Michigan 2026) [pdf](/assets/pdfs/ext_cyclic_michigan.pdf)
 * The Chow-Lam Form (JMM 2026) [pdf](/assets/pdfs/segre_jmm.pdf)
 * Exterior Cyclic Polytopes and Convexity of Amplituhedra (AGNT 2025) [pdf](/assets/pdfs/ext_cyclic_agnt.pdf)
