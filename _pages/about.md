@@ -8,7 +8,7 @@ last_modified_at: 2026-10-11
 image:
 ---
 
-I am currently a postdoctoral fellow at Perimeter Institute for Theoretical Physics. My mathematical interests include combinatorial algebraic geometry and applications to scattering amplitudes. Before that I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote an undergraduate thesis mentored by Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
+I am currently a postdoctoral fellow at Perimeter Institute for Theoretical Physics, mentored by Michael Borinsky. My mathematical interests include combinatorial algebraic geometry and applications to scattering amplitudes. Before that I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote an undergraduate thesis mentored by Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
 
 Contact: lpratt [symbol] perimeterinstitute [symbol] ca
 
