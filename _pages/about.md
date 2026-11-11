@@ -35,9 +35,10 @@ November 26-30: Princeton, NJ -->
 * August 4: speaking in the Positive Geometry seminar
 * September 1: Postdoctoral position at Perimeter Insitute for Theoretical Physics (Waterloo, Canada)
 * September 24: Speaking in [Waterloo Combinatorics Seminar](https://combinatorics.chat/) 
-{% endcomment %}
 * September 28-October 2: Universe+ annual meeting (University of Cambridge, UK)
+{% endcomment %}
 * October 28: Speaking in [Universe+ Seminar](https://positive-geometry.com/events/online-seminars)
+* November 24: Speaking in [Princeton Algebraic Geometry Seminar](https://www.math.princeton.edu/events/seminars/algebraic-geometry-seminar)
 * April 26th - May 22nd 2027: Participating in [Combinatorics and Geometries for Particle Physics and Cosmology](https://www.kitp.ucsb.edu/activities/COMBGEOM27) (Santa Barbara, CA)
 
 
