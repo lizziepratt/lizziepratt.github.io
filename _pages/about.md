@@ -10,11 +10,10 @@ image:
 
 I am currently a postdoctoral fellow at Perimeter Institute for Theoretical Physics, mentored by Michael Borinsky. My mathematical interests include combinatorial algebraic geometry and applications to scattering amplitudes. This semester I am co-organizing the Perimeter Institute [AI x Physics Seminar](https://pi-physics-x-ai.github.io/).
 
-Before that I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD in Mathematics at UC Berkeley in May 2026, advised by Bernd Sturmfels. Before that I was at Amherst College, where I wrote an undergraduate thesis mentored by Jenia Tevelev.  In my free time, I rock climb, run, read comics, and play guitar. 
+Before that I was a Chancellor's Fellow at UC Davis for five months, mentored by Jaroslav Trnka. I completed a PhD in Mathematics at UC Berkeley in May 2026, advised by Bernd Sturmfels. In my free time, I rock climb, run, read comics, and play guitar. 
+<!--* Before that I was at Amherst College, where I wrote an undergraduate thesis mentored by Jenia Tevelev.  -->
 
 Contact: lpratt [symbol] perimeterinstitute [symbol] ca
-
-Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en)
 
 Upcoming and recent travel:
 <!--* June 12: Talk at [MPI Nonlinear Algebra Seminar](https://www.mis.mpg.de/events/event/the-segre-determinant) (Leipzig, Germany) -->

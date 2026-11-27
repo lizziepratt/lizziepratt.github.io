@@ -10,7 +10,7 @@ image:
 ---
 I am broadly interested in combinatorial algebraic geometry. Most of my work is in positive geometry, which studies semi-algebraic subsets of real algebraic varieties defined by natural positivity conditions. The Ur-example is the positive Grassmannian, and other examples include polytopes, the moduli space of points on a line, and positive parts of many homogeneous spaces. This is a relatively new field of math inspired by computations in scattering amplitudes. 
 
-Click on the triangle by each paper for a summary.
+Click on the triangle by each paper for a summary. My papers are also on [Google scholar](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en).
 
 ## Preprints
 
