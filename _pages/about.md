@@ -40,6 +40,7 @@ November 26-30: Princeton, NJ -->
 {% endcomment %}
 * October 28: Speaking in [Universe+ Seminar](https://positive-geometry.com/events/online-seminars)
 * November 24: Speaking in [Princeton Algebraic Geometry Seminar](https://www.math.princeton.edu/events/seminars/algebraic-geometry-seminar)
+* December 10: Speaking in [Technical AI Safety Learning Seminar](https://vibbz.github.io/Ai-Safety-Seminar-Fall-2026/)
 * April 26th - May 22nd 2027: Participating in [Combinatorics and Geometries for Particle Physics and Cosmology](https://www.kitp.ucsb.edu/activities/COMBGEOM27) (Santa Barbara, CA)
 
 
